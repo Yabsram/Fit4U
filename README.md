@@ -27,3 +27,9 @@ APIs: Google Gemini (for workouts), Spoonacular (for recipes)
 Database: SQLite
 
 Authentication: Flask-Login, Werkzeug Security
+
+
+<img width="1914" height="871" alt="image" src="https://github.com/user-attachments/assets/5801f8a5-e089-4ce4-86a2-272e7f2b4924" />
+<img width="1914" height="876" alt="image" src="https://github.com/user-attachments/assets/a10fec17-496e-45d3-9b07-d1f00c73d85a" />
+
+
